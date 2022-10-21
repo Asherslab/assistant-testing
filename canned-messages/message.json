@@ -1,0 +1,37 @@
+{
+  "type": "canned-message"
+  "data": {
+    "arguments": [
+      {
+        "type": "command-name-data",
+        "name": "name-data",
+        "required": true
+      }
+    ],
+    "names": [
+      "1.12",
+      "1.15",
+      "1.16",
+      "1.17"
+    ],
+    "name-data": {
+      "1.12": {
+        "support-channel": "139395241961586689",
+        "bug-channel": "301454279493812245"
+      },
+      "1.15": {
+        "support-channel": "620584008236924929",
+        "bug-channel": "620499986349555742"
+      },
+      "1.16": {
+        "support-channel": "741531022872674314",
+        "bug-channel": "741531816422539384"
+      },
+      "1.17": {
+        "support-channel": "894250075600093234",
+        "bug-channel": "894250091714596924"
+      }
+    }
+    "message": "The only supported versions are 1.18.2 and 1.19.2.\nAny other version is ***__NOT__*** supported.\n${name-data.name} is ***__NOT__*** supported.\nYou can search the <#${name-data.support-channel}> and <#${name-data.bug-channel}> channels to try to find a solution to your problem.\n\nIt is virtually impossible to maintain a large amount of different versions concurrently and still provide new content, and to provide support for older versions that aren't maintained anymore. Please respect the devs' decision.\nIf you insistently ask about any other version than 1.18.2 and 1.19.2, moderation action will be taken."
+  }
+}
