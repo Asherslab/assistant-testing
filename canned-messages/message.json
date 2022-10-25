@@ -4,24 +4,26 @@
     "arguments": [
       {
         "type": "command-name-data",
-        "name": "name-data",
-        "required": true,
         "data": {
-          "1.12": {
-            "support-channel": "139395241961586689",
-            "bug-channel": "301454279493812245"
-          },
-          "1.15": {
-            "support-channel": "620584008236924929",
-            "bug-channel": "620499986349555742"
-          },
-          "1.16": {
-            "support-channel": "741531022872674314",
-            "bug-channel": "741531816422539384"
-          },
-          "1.17": {
-            "support-channel": "894250075600093234",
-            "bug-channel": "894250091714596924"
+          "name": "name-data",
+          "required": true,
+          "data": {
+            "1.12": {
+              "support-channel": "139395241961586689",
+              "bug-channel": "301454279493812245"
+            },
+            "1.15": {
+              "support-channel": "620584008236924929",
+              "bug-channel": "620499986349555742"
+            },
+            "1.16": {
+              "support-channel": "741531022872674314",
+              "bug-channel": "741531816422539384"
+            },
+            "1.17": {
+              "support-channel": "894250075600093234",
+              "bug-channel": "894250091714596924"
+            }
           }
         }
       }
