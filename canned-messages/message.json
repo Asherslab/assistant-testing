@@ -34,6 +34,6 @@
       "1.16",
       "1.17"
     ],
-    "message": "The only supported versions are 1.18.2 and 1.19.2.\nAny other version is ***__NOT__*** supported.\n${name-data.name} is ***__NOT__*** supported.\nYou can search the <#${name-data.support-channel}> and <#${name-data.bug-channel}> channels to try to find a solution to your problem.\n\nIt is virtually impossible to maintain a large amount of different versions concurrently and still provide new content, and to provide support for older versions that aren't maintained anymore. Please respect the devs' decision.\nIf you insistently ask about any other version than 1.18.2 and 1.19.2, moderation action will be taken."
+    "message": "TEST123\nThe only supported versions are 1.18.2 and 1.19.2.\nAny other version is ***__NOT__*** supported.\n${name-data.name} is ***__NOT__*** supported.\nYou can search the <#${name-data.support-channel}> and <#${name-data.bug-channel}> channels to try to find a solution to your problem.\n\nIt is virtually impossible to maintain a large amount of different versions concurrently and still provide new content, and to provide support for older versions that aren't maintained anymore. Please respect the devs' decision.\nIf you insistently ask about any other version than 1.18.2 and 1.19.2, moderation action will be taken."
   }
 }
